@@ -1,0 +1,56 @@
+[
+  {
+    "id": "q1_cross_year_revenue",
+    "question": "How did Acme's consolidated revenue and Cloud Platform Services revenue change from fiscal year 2024 to fiscal year 2025?",
+    "ground_truth": "Acme's consolidated revenue increased by $935.0 million or 22.0% from $4,250.0 million in FY2024 to $5,185.0 million in FY2025. Cloud Platform Services revenue grew 35.7% from $2,100.0 million (49.4% of total revenue) in FY2024 to $2,850.0 million (55.0% of total revenue) in FY2025.",
+    "relevant_sources": [
+      "acme_10k_2024_financials.txt",
+      "acme_10k_2025_financials.txt"
+    ],
+    "type": "cross_fiscal_year"
+  },
+  {
+    "id": "q2_cross_year_margins",
+    "question": "Compare the gross margins and R&D spending between fiscal year 2024 and fiscal year 2025.",
+    "ground_truth": "Consolidated gross margin expanded by 280 basis points from 61.2% in FY2024 to 64.0% in FY2025. Cloud Platform Services gross margin expanded by 400 basis points from 68.0% in FY2024 to 72.0% in FY2025. R&D spending increased from $820.0 million (19.3% of revenue) in FY2024 to $1,050.0 million (20.3% of revenue) in FY2025, representing a 28.0% increase.",
+    "relevant_sources": [
+      "acme_10k_2024_financials.txt",
+      "acme_10k_2025_financials.txt"
+    ],
+    "type": "cross_fiscal_year"
+  },
+  {
+    "id": "q3_supply_chain_risk",
+    "question": "What is Acme's quantifiable potential exposure to single-source supply chain disruptions in fiscal year 2025?",
+    "ground_truth": "In fiscal year 2025, Acme's quantifiable potential exposure to single-source supply chain disruptions was estimated at $185.0 million in unfulfilled contract penalties and inventory write-downs, with potential lead time delays of 16 to 24 weeks for advanced 3nm fabrication nodes.",
+    "relevant_sources": [
+      "acme_10k_2025_risk_factors.txt"
+    ],
+    "type": "risk_factors"
+  },
+  {
+    "id": "q4_cybersecurity_limitation",
+    "question": "What are the limitations and deductible thresholds on Acme's enterprise cybersecurity insurance policy?",
+    "ground_truth": "While Acme maintains up to $250.0 million in aggregate cybersecurity coverage, policy terms dictate a mandatory self-insured retention and insurance coverage limitation of 14.5% of total assessed breach liabilities, with contested exclusions for nation-state advanced persistent threats.",
+    "relevant_sources": [
+      "acme_10k_2025_risk_factors.txt"
+    ],
+    "type": "risk_factors"
+  },
+  {
+    "id": "q5_audit_committee_governance",
+    "question": "What are the meeting cadence and quorum requirements for Acme's Audit Committee?",
+    "ground_truth": "The Audit Committee must meet at least four (4) times per fiscal year on a quarterly basis prior to earnings dissemination. A majority of the total number of members of the Committee constitutes a quorum for the transaction of business.",
+    "relevant_sources": [
+      "acme_governance_charter.txt"
+    ],
+    "type": "governance"
+  },
+  {
+    "id": "q6_unanswerable_quantum",
+    "question": "What is Acme's capital expenditure allocation for quantum computing data center construction in Western Europe for 2030?",
+    "ground_truth": "I don't know based on the provided documents. The provided filings do not contain information regarding quantum computing data center construction or 2030 European allocations.",
+    "relevant_sources": [],
+    "type": "unanswerable"
+  }
+]

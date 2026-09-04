@@ -1,0 +1,42 @@
+--- [Page 1] ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2024
+Commission File Number: 001-39482
+ACME TECHNOLOGIES INC.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+CONSOLIDATED FINANCIAL RESULTS FOR FISCAL YEAR 2024
+
+Acme Technologies Inc. ("Acme", the "Company", "we", or "our") reported total consolidated revenue of $4,250.0 million for the fiscal year ended December 31, 2024, representing an increase of $450.0 million or 11.8% compared to total revenue of $3,800.0 million for the fiscal year ended December 31, 2023. 
+
+Consolidated gross profit for fiscal year 2024 was $2,601.0 million, resulting in a consolidated gross margin of 61.2%, compared to gross profit of $2,280.0 million and a gross margin of 60.0% in fiscal year 2023. Operating income for fiscal year 2024 totaled $935.0 million, yielding an operating margin of 22.0%, compared to operating income of $798.0 million in fiscal year 2023. Net income for fiscal year 2024 was $745.0 million, resulting in diluted earnings per share (EPS) of $3.45 across 215.9 million weighted-average diluted common shares outstanding. Cash and cash equivalents stood at $1,180.0 million as of December 31, 2024.
+
+--- [Page 2] ---
+ACME TECHNOLOGIES INC. — FORM 10-K (FY2024)
+ITEM 7. SEGMENT PERFORMANCE AND REVENUE BREAKDOWN
+
+Our business is organized into three reportable segments: Cloud Platform Services, Enterprise Hardware Systems, and Professional & Advisory Services.
+
+1. Cloud Platform Services:
+Revenue in Cloud Platform Services was $2,100.0 million in fiscal year 2024, contributing 49.4% of total consolidated revenue. This represents year-over-year revenue expansion of 20.0% from $1,750.0 million in fiscal year 2023. Segment gross profit was $1,428.0 million, achieving a segment gross margin of 68.0%. Growth was driven by enterprise adoption of our flagship cloud data platform, TitanScale.
+
+2. Enterprise Hardware Systems:
+Revenue in Enterprise Hardware Systems was $1,400.0 million in fiscal year 2024, accounting for 32.9% of total consolidated revenue, compared to $1,375.0 million in fiscal year 2023 (1.8% growth). Segment gross profit was $728.0 million, yielding a segment gross margin of 52.0%. Growth reflected ongoing replacement cycles for edge telemetry appliances.
+
+3. Professional & Advisory Services:
+Revenue in Professional & Advisory Services was $750.0 million in fiscal year 2024, representing 17.7% of total consolidated revenue, compared to $675.0 million in fiscal year 2023 (11.1% growth). Segment gross profit was $445.0 million, corresponding to a segment gross margin of 59.3%. Growth was fueled by cloud migration integration consulting.
+
+--- [Page 3] ---
+ACME TECHNOLOGIES INC. — FORM 10-K (FY2024)
+ITEM 7. OPERATING EXPENSES, R&D, AND WORKFORCE HEADCOUNT
+
+Operating expenses for fiscal year 2024 were as follows:
+- Research and Development (R&D): $820.0 million in fiscal year 2024, representing 19.3% of total consolidated revenue, compared to $722.0 million in fiscal year 2023. R&D investments focused on next-generation vector query acceleration and distributed edge consensus engines.
+- Sales and Marketing (S&M): $646.0 million in fiscal year 2024 (15.2% of revenue), compared to $570.0 million in fiscal year 2023.
+- General and Administrative (G&A): $200.0 million in fiscal year 2024 (4.7% of revenue), compared to $190.0 million in fiscal year 2023.
+
+Workforce and Headcount:
+As of December 31, 2024, Acme employed 14,200 full-time employees globally, an increase of 1,100 employees from 13,100 full-time employees as of December 31, 2023. The engineering and technical staff comprised 58% of total headcount (8,236 employees), while customer success and enterprise sales accounted for 27% (3,834 employees), and general administration comprised 15% (2,130 employees). Capital expenditures for property, equipment, and server clusters totaled $310.0 million in fiscal year 2024.

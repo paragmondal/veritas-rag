@@ -1,0 +1,33 @@
+--- [Page 1] ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K (FY2025)
+ACME TECHNOLOGIES INC.
+ITEM 1A. RISK FACTORS
+
+Our business, financial condition, operating results, and cash flows can be adversely affected by various risks and uncertainties. Investors should carefully consider the specific financial risks described below.
+
+Supply Chain and Component Sourcing Concentration Risk:
+We rely on third-party foundries and assembly partners for specialized silicon and hardware components powering our Enterprise Hardware Systems and telemetry appliances. In fiscal year 2025, our quantifiable potential exposure to single-source supply chain disruptions was estimated at $185.0 million in unfulfilled contract penalties and inventory write-downs. Delays or export restrictions affecting advanced 3nm fabrication nodes could lengthen appliance manufacturing lead times by 16 to 24 weeks.
+
+Hyperscaler Infrastructure Concentration:
+Our Cloud Platform Services segment operates across distributed cloud infrastructure. In fiscal year 2025, 42.0% of our cloud gross revenue was concentrated on infrastructure hosted by the top 5 global cloud hyperscalers. An unexpected price increase, change in terms of service, or region-wide outage from any of these providers could materially compress cloud gross margins from our current 72.0% level.
+
+Semiconductor Fabrication and Geopolitical Export Restriction Risks:
+Our hardware appliances integrate custom ASIC microcontrollers and high-bandwidth memory (HBM) modules fabricated primarily in East Asia. Tightening export controls, cross-strait geopolitical friction, and bilateral tariff assessments represent an acute operational hazard. In fiscal year 2025, management estimated that new bilateral trade restrictions and potential emergency freight contingencies could create an unhedged operational cost shock of $95.0 million. Sourcing replacement packaging facilities outside primary manufacturing corridors would require a transition timeline of at least 9 to 12 months.
+
+Critical Component Lead Times and Warehouse Inventory Buffering:
+To safeguard customer deployment commitments against foundry bottlenecks, Acme maintained $340.0 million in forward raw component purchase commitments as of December 31, 2025. Rapid obsolescence of edge computing architectures or sudden cancellations of customer appliance orders could result in non-cash inventory write-downs of up to $40.0 million. If component suppliers prioritize larger volume consumer electronics manufacturers, our shipment volumes could drop by 20% to 30% in subsequent fiscal quarters.
+
+--- [Page 2] ---
+ACME TECHNOLOGIES INC. — FORM 10-K (FY2025)
+ITEM 1A. RISK FACTORS (CONTINUED)
+
+Regulatory and Global Compliance Accruals:
+As we expand our TitanScale platform across international markets, we are subject to increasingly stringent data sovereignty and algorithmic accountability regulations, including the European Union Artificial Intelligence Act and cross-border transfer directives. In fiscal year 2025, we recorded a designated compliance reserve and legal defense accrual of $65.0 million specifically allocated for international regulatory audits, algorithmic verification frameworks, and data governance restructuring.
+
+Cybersecurity and Threat Landscape:
+We store sensitive telemetry and mission-critical enterprise data for Fortune 500 customers. While we maintain comprehensive enterprise cybersecurity insurance policies providing up to $250.0 million in aggregate coverage, our policy terms dictate a mandatory self-insured retention and insurance coverage limitation of 14.5% of total assessed breach liabilities. Furthermore, claims arising from nation-state advanced persistent threats (APTs) are subject to contested exclusions.
+
+Currency and Liquidity Fluctuations:
+International sales accounted for 34.2% of consolidated net revenue in fiscal year 2025. To mitigate non-USD exposure, we established an active foreign exchange hedging derivative buffer of $210.0 million. Volatility exceeding standard deviations could impact reported operating income by up to $45.0 million.

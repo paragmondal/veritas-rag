@@ -1,0 +1,42 @@
+--- [Page 1] ---
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2025
+Commission File Number: 001-39482
+ACME TECHNOLOGIES INC.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+CONSOLIDATED FINANCIAL RESULTS FOR FISCAL YEAR 2025
+
+Acme Technologies Inc. ("Acme", the "Company", "we", or "our") reported total consolidated revenue of $5,185.0 million for the fiscal year ended December 31, 2025, representing an increase of $935.0 million or 22.0% compared to total revenue of $4,250.0 million for the fiscal year ended December 31, 2024.
+
+Consolidated gross profit for fiscal year 2025 was $3,318.4 million, resulting in a consolidated gross margin of 64.0%, representing an expansion of 280 basis points compared to gross profit of $2,601.0 million and gross margin of 61.2% in fiscal year 2024. Operating income for fiscal year 2025 reached $1,244.4 million, yielding an operating margin of 24.0%, compared to operating income of $935.0 million and an operating margin of 22.0% in fiscal year 2024. Net income for fiscal year 2025 was $995.5 million, an increase of 33.6% compared to $745.0 million in fiscal year 2024, resulting in diluted earnings per share (EPS) of $4.55 compared to $3.45 in fiscal year 2024. Cash and cash equivalents totaled $1,640.0 million as of December 31, 2025.
+
+--- [Page 2] ---
+ACME TECHNOLOGIES INC. — FORM 10-K (FY2025)
+ITEM 7. SEGMENT PERFORMANCE AND REVENUE BREAKDOWN
+
+Our business is organized into three reportable segments: Cloud Platform Services, Enterprise Hardware Systems, and Professional & Advisory Services.
+
+1. Cloud Platform Services:
+Revenue in Cloud Platform Services rose to $2,850.0 million in fiscal year 2025, contributing 55.0% of total consolidated revenue. This represents strong year-over-year revenue growth of 35.7% from $2,100.0 million in fiscal year 2024. Segment gross profit was $2,052.0 million, achieving a segment gross margin of 72.0%, representing an expansion of 400 basis points from 68.0% in fiscal year 2024. Growth was accelerated by enterprise subscription expansion for TitanScale and new generative indexing microservices.
+
+2. Enterprise Hardware Systems:
+Revenue in Enterprise Hardware Systems was $1,450.0 million in fiscal year 2025, accounting for 28.0% of total consolidated revenue, compared to $1,400.0 million in fiscal year 2024 (growth of 3.57%). Segment gross profit was $725.0 million, yielding a segment gross margin of 50.0%, compared to 52.0% in fiscal year 2024. Margin compression reflected higher component sourcing costs.
+
+3. Professional & Advisory Services:
+Revenue in Professional & Advisory Services was $885.0 million in fiscal year 2025, representing 17.1% of total consolidated revenue, compared to $750.0 million in fiscal year 2024 (growth of 18.0%). Segment gross profit was $541.4 million, achieving a segment gross margin of 61.17%, up from 59.3% in fiscal year 2024.
+
+--- [Page 3] ---
+ACME TECHNOLOGIES INC. — FORM 10-K (FY2025)
+ITEM 7. OPERATING EXPENSES, R&D, AND WORKFORCE HEADCOUNT
+
+Operating expenses for fiscal year 2025 were as follows:
+- Research and Development (R&D): $1,050.0 million in fiscal year 2025, representing 20.3% of total consolidated revenue, compared to $820.0 million (19.3% of revenue) in fiscal year 2024, representing an increase of $230.0 million or 28.0%. R&D investments prioritized real-time hybrid retrieval kernels, neural compression, and enterprise compliance architectures.
+- Sales and Marketing (S&M): $780.0 million in fiscal year 2025 (15.0% of revenue), compared to $646.0 million in fiscal year 2024.
+- General and Administrative (G&A): $244.0 million in fiscal year 2025 (4.7% of revenue), compared to $200.0 million in fiscal year 2024.
+
+Workforce and Headcount:
+As of December 31, 2025, Acme employed 16,100 full-time employees globally, an addition of 1,900 employees or 13.4% growth from 14,200 full-time employees as of December 31, 2024. Technical and product personnel represented 60% of total headcount (9,660 employees), customer operations and sales represented 26% (4,186 employees), and general corporate administration comprised 14% (2,254 employees). Capital expenditures reached $425.0 million in fiscal year 2025.
